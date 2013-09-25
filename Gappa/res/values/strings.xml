@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GappaActivity!</string>
+    <string name="app_name">Gappa</string>
+    <string name="Title">Gappa Wms System</string>
+    <string name="ID">ID</string>
+    <string name="PW">PW</string>
+    
+    <!-- ボタン  -->
+    
+    <string name="Login_button">ログイン</string>
+
+</resources>
